@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 000
 nobranch
+=======
+55new
+55+2
+local
+>>>>>>> Stashed changes
