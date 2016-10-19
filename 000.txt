@@ -1,0 +1,44 @@
+rfgd_18791015
+https://infinityfree.net/accounts/create
+
+MySQL DB Name 	MySQL User Name 	MySQL Password 	MySQL Host Name 	Backup 	PHPMyAdmin
+rfgd_18791015_db	rfgd_18791015	(Your cPanel Password)	sql107.rf.gd	Backup 	Admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+omain 	p5.comli.com
+Username 	a5232815
+Password 	Change
+Disk Usage 	0.02
+Bandwidth 	100000 MB (100GB)
+Home Root 	/home/a5232815
+Server Name 	server23.000webhost.com
+IP Address 	31.170.160.87
+Apache ver. 	2.2.19 (Unix)
+PHP version 	5.2.*
+MySQL ver. 	5.1
+Activated On 	2016-08-25 10:30
+https://members.000webhost.com/panel/phpmyadmin
+
+MySQL Database 	MySQL User 	MySQL Host 	Action
+a5232815_db 	a5232815_root 	mysql6.000webhost.com 	
+asdfasdf1
+
+
+
