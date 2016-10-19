@@ -1,7 +1,1 @@
-000
-<<<<<<< HEAD
-2branch
-2branch+
-=======
-nobranch
->>>>>>> master
+33-1
